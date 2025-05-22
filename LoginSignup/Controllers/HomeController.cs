@@ -9,7 +9,7 @@ namespace LoginSignup.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
-
+        //noh
         public HomeController(ILogger<HomeController> logger)
         {
             _logger = logger;
